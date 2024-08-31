@@ -94,7 +94,7 @@ The first step involved thorough data cleaning to ensure the dataset was ready f
 
 ### 5. Modeling and Analysis
 
-Various predictive models were built to forecast future sales and provide actionable insights:
+Prophet predictive models were built to forecast future sales and provide actionable insights:
 
 - **Weekly Sales Forecasting**: Sales were forecasted to increase from £0.18 million in Week 1 (December 18, 2011) to £0.20 million in Week 6 (January 22, 2012). Accuracy was measured using MAE and RMSE.
 - **Monthly Sales Forecasting**: Projected sales growth from £0.69 million in January 2012 to £0.81 million in June 2012. Prediction intervals were calculated to provide confidence in the forecasts.
