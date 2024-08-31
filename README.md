@@ -57,7 +57,7 @@ The first step involved thorough data cleaning to ensure the dataset was ready f
 
 #### a. **Database Setup**
 - Imported the sales data into SQL Server, creating a table named `updated_sales_dataset_with_features`.
-- Established the database connection using SQL Server Management Studio (SSMS) or another SQL client.
+- Established the database connection using SQL Server Management Studio (SSMS).
 
 #### b. **Data Preparation**
 - **Handling Missing Values**: Imputed missing values in key columns using the mean values to ensure the dataset was complete for analysis.
