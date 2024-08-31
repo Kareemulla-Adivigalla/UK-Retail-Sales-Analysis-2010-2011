@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+name: my_project_env 
+channels: 
+"  - defaults" 
+dependencies: 
+"  - python=3.9" 
+"  - numpy=1.24.3" 
+"  - pandas=2.1.0" 
+"  - scikit-learn=1.3.0" 
+"  - matplotlib=3.7.1" 
+"  - pip" 
+"  - pip:" 
+"    - jupyter==1.0.0" 
+"    - seaborn==0.12.2" 
+=======
+name: my_project_env 
+channels: 
+"  - defaults" 
+dependencies: 
+"  - python=3.9" 
+"  - numpy=1.24.3" 
+"  - pandas=2.1.0" 
+"  - scikit-learn=1.3.0" 
+"  - matplotlib=3.7.1" 
+"  - pip" 
+"  - pip:" 
+"    - jupyter==1.0.0" 
+"    - seaborn==0.12.2" 
+>>>>>>> fd7d0cc837cb821b04afdf845eecd9ac38554ad5
