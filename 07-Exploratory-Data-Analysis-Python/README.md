@@ -57,7 +57,7 @@ This document outlines the complete Exploratory Data Analysis (EDA) process cond
   - Boxplots and scatter plots were used to detect outliers in key variables such as `Quantity` and `Price`.
   - Actions Taken: 
     - Outliers that represented genuine data points (e.g., large bulk orders) were retained.
-    - Anomalies likely due to data entry errors (e.g., negative quantities or zero prices) were corrected or removed.
+    - Anomalies likely due to data entry errors (e.g., negative quantities or zero prices) were removed.
 
 ### 5. Feature Engineering for EDA
 
